@@ -1,8 +1,8 @@
- <h1 align="center"> :wave: Hi, I'm Alexey </h1>
-<h4 align="center"> :desktop_computer: I am learning front end web development. </h4>
-
 <div align="center">
-<a href="https://www.codewars.com/users/LineCoran">
+<h1> :wave: Hi, I'm Alexey </h1>
+<h3> :rocket::rocket::rocket: I am learning front end web development. :rocket::rocket::rocket: </h3>
+<p>I live in Minsk. I work as a railroad designer. Here will be my projects.</p>
+<h3>:eyes:     My CodeWars     :eyes:</h3>
   <img src="https://www.codewars.com/users/LineCoran/badges/large" alt="codewars profile">
 </a>
 </div>
