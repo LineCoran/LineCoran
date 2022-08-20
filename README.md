@@ -1,6 +1,6 @@
 <div id="title" align="center">
   <h1 font-size='10px'>Hello there!&#128075;</h1>
-  <p> My name is Kuzmichev Alexey, i'am Frontend-developer&#128187;</p>
+  <p> My name is Kuzmichev Alexey, I'am Frontend-developer&#128187;</p>
 </div>
 
 <div id="header" align="center">
@@ -25,6 +25,7 @@
   </a>
 </div>
 <div id="views_counter " align="center">
+  ![](https://komarev.com/ghpvc/?username=linecoran)
   <img src="https://komarev.com/ghpvc/?username=pavel1303&style=flat-square&color=blue" alt=""/>
 </div>
 
