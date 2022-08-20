@@ -47,10 +47,7 @@ I liked the curriculum, the big community and the fact that the students help ea
 </div>
   </div>
   <div id="projects">
-    <h2>My projects</h2>
-    <p>Here you can see the projects that I did during my studies. Also in my pinned repositories you can find my solutions to algorithmic tasks.</p>
-    <p>P.S. The section is updated periodically.</p>
-    
+    <h2>My projects</h2>    
 <table>
 <thead>
 <tr>
