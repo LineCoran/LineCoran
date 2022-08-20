@@ -26,7 +26,6 @@
 </div>
 <div id="views_counter " align="center">
   <img src="https://komarev.com/ghpvc/?username=linecoran" alt=""/>
-  <img src="https://komarev.com/ghpvc/?username=pavel1303&style=flat-square&color=blue" alt=""/>
 </div>
 
 <div id="main">
