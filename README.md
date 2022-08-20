@@ -58,80 +58,23 @@ I liked the curriculum, the big community and the fact that the students help ea
 </thead>
 <tbody>
 <tr>
-  <td align="center"><a href="https://github.com/pavel1303/museum">Museum</a></td>
-  <td align="center"><a href="https://pavel1303.github.io/museum/museum/" rel="nofollow">Museum</a></td>
-  <td>My first project during the RollingScopesSchool courses JavaScript/Front-end. But this was done before the start of training at RS.
-In fact, this is my first project, and it consists of HTML and CSS, even without adaptive)
-P.S. Taken from my old GitHub account.</td>
+  <td align="center"><a href="https://github.com/linecoran/fractales">Fractales</a></td>
+  <td align="center"><a href="https://linecoran.github.io/fractales/" rel="nofollow">Fractales</a></td>
+  <td>My first project about creating fractales. </td>
 </tr>
 <tr>
-  <td align="center"><a href="https://github.com/pavel1303/drum__kit">Java Script Drum Kit</a></td>
-  <td align="center"><a href="https://pavel1303.github.io/drum__kit/" rel="nofollow">Drum Kit</a></td>
-  <td>Like the first project, this one was completed before the official start of training.
-Since the training of the program is open, I tried to make projects that were carried out on early streams.
-  P.S. Taken from my old GitHub account.</td>
+  <td align="center"><a href="https://github.com/linecoran/travel">Travel</a></td>
+  <td align="center"><a href="https://linecoran.github.io/travel/" rel="nofollow">Travel</a></td>
+  <td>My first project in RSS School about Travel. HTML, CSS, JavaScript</td>
 </tr>
 <tr>
-  <td align="center"><a href="https://github.com/pavel1303/rs_private_repository_stage_0/tree/portfolio">Portfolio</a></td>
-  <td align="center"><a href="https://pavel1303.github.io/rs_private_repository_stage_0/portfolio" rel="nofollow">Portfolio Alexa Rise</a></td>
-  <td>The first serious educational project is the business card site of the photographer Alexa Rise.
-Implemented adaptive flexible layout for mobile phones, tablets and computers.
-There is also a burger menu implementation, theme change (light / dark), language change, button animation, photo change when choosing a season and a custom video player.</td>
+  <td align="center"><a href="https://github.com/linecoran/momentum/">Momentum</a></td>
+  <td align="center"><a href="https://linecoran.github.io/momentum/" rel="nofollow">Momentum</a></td>
+  <td>Single Page Application with a lot of functionality</td>
 </tr>
-<tr>
-  <td align="center"><a href="https://github.com/pavel1303/rs_private_repository_stage_0/tree/memory-game">Memory Game</a></td>
-  <td align="center"><a href="https://pavel1303.github.io/rs_private_repository_stage_0/memory-game/" rel="nofollow">Snoop Dogg Memory Game</a></td>
-  <td>The classic "Memorize the Card" game accompanied by Snoop Dog. Implemented:
-random order of cards when starting a new game, flipping cards, blocking cards during a try, a timer that starts from a new try, counting the number of attempts, remembering the results of the last 10 games and a surprise for those who reach the end :)
-  </td>
-</tr>
-<tr>
-  <td align="center"><a href="https://github.com/pavel1303/rs_private_repository_stage_1/tree/shelter">Shelter</a></td>
-  <td align="center"><a href="https://pavel1303.github.io/rs_private_repository_stage_1/shelter/" rel="nofollow">Shelter</a></td>
-  <td>Educational project - Animal shelter website.
-Two-page site, with adaptive-flexible layout for any screen extension.
-Implemented:
-a burger menu for screens smaller than 768px, an infinite slider with animal cards, a pop-up with information about the animal when you click on the card, and pagination is implemented on the "our pets" page. Also in this project for the first time I used the Sass preprocessor and the BEM methodology.</td>
-</tr>
-<tr>
-  <td align="center"><a href="https://github.com/pavel1303/virtual_keyboard_/tree/dev">Virtual keyboard</a></td>
-  <td align="center"><a href="https://pavel1303.github.io/virtual_keyboard_/dist/" rel="nofollow">Virtual keyboard</a></td>
-  <td>Educational project - "Virtual keyboard".
-One of the most difficult projects I have ever done.
-In this project, I first used:
-Webpack, ESlint, Babel.
-The HTML page is created dynamically, there are two ways to change the language, the keyboard works the same way when you click on the physical keyboard, and when you click on the virtual one.
-Implemented modifier keys - Shift, CapsLock and CRTL & ALT key combination.</td>
-</tr>
-<tr>
-  <td align="center"><a href="https://github.com/pavel1303/cssMemSlider/tree/gh-pages">CSS Slider</a></td>
-  <td align="center"><a href="https://pavel1303.github.io/cssMemSlider/cssMemSlider/" rel="nofollow">CSS Mem Slider</a></td>
-  <td>A small, simple, but no less interesting project is CSS Mem Slider.
-The slider is made on pure HTML and CSS, without the use of JS and third-party libraries.
-Jokes memes are local, probably only RS School students will understand :)</td>
-</tr>
-<tr>
-  <td align="center"><a href="https://github.com/pavel1303/HTML-builder">HTML-builder</a></td>
-  <td align="center"><strong>To view, you need to go to the repository</strong></td>
-  <td>The repository contains 6 tasks I solved using Node.js.
-Each task has a description, and if you wish, you can try to run my code locally on your computer.
-The last task is number 06, the most difficult and interesting, with the help of which you can build your site)</td>
-</tr>
-<tr>
-  <td align="center"><a href="https://github.com/pavel1303/clean-code-s1e1/tree/clean-code-s1e1">Clean Code</a></td>
-   <td align="center"><a href="https://pavel1303.github.io/clean-code-s1e1/">Clean Code</a></td>
-  <td>Training task - "Clean Code".
-The essence of the task was as follows:
-it was necessary to fork the repository, with the finished application, and then refactor the code, in accordance with the rules of clean code.
-    The <a src="https://github.com/pavel1303/clean-code-s1e1/pull/2">pull request</a> contains a detailed description of the work done.</td>
-</tr>
-<tr>
-<td align="center">Self Introduction</td>
-<td align="center"><a href="https://youtu.be/VfTLmphzmCQ">Self Introduction</a></td>
-<td>This project contains no code.
-The purpose of this task was to create a video in which you need to briefly tell about yourself in English.
-I added a little creativity, and you can see the result at the link)</td>
-</tr>
+
+
+
 <tr>
 <td align="center">New project</td>
 <td align="center"></td>
@@ -143,13 +86,11 @@ I added a little creativity, and you can see the result at the link)</td>
   <div id='education'>
     <h2 align='left'>Education</h2>
     <ul>
-      <li>Rolling Scopes School Stage 0 <a href="https://app.rs.school/certificate/upiv5s7v">Certificate</a></li>
-      <li>Rolling Scopes School Stage 1</li>
-      <li>Rolling Scopes School Stage 2 (<b>in progress</b>)</li>
-      <li><a href="https://developer.mozilla.org/ru/docs/Learn/Front-end_web_developer">MDN Frontend Course</a></li>
-      <li><a href="https://learn.javascript.ru/">Learn JavaScript</a> (<b>in progress</b>)</li>
+      <li>Head First O’Reilly Learning HTML, CSS</li>
       <li>Head First O’Reilly Learning JavaScript Programming</li>
       <li>Aditya Y. Bhargava Grokking Algorithms (<b>in progress</b>)</li>
+      <li>Marijn Haverbeke El Eloquent JavaScript (<b>in progress</b>)</li>
+      <li>Rolling Scopes School Stage 0 (<b>in progress</b>)</li>
     </ul>
   </div>
   <div id='stats' align='center'>
