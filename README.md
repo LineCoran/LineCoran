@@ -26,6 +26,7 @@
 </div>
 <div id="views_counter " align="center">
   ![](https://komarev.com/ghpvc/?username=linecoran)
+  <img src="https://komarev.com/ghpvc/?username=linecoran" alt=""/>
   <img src="https://komarev.com/ghpvc/?username=pavel1303&style=flat-square&color=blue" alt=""/>
 </div>
 
