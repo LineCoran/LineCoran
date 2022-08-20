@@ -154,33 +154,9 @@ I added a little creativity, and you can see the result at the link)</td>
   </div>
   <div id='stats' align='center'>
     <h2 align='left'>And some statistics...</h2>
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=pavel1303&theme=merko&date_format=M%20j%5B%2C%20Y%5D"><br><br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavel1303&layout=compact&theme=vision-friendly-dark"><br><br>
-    <img src="https://www.codewars.com/users/pavel1303/badges/large">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=linecoran&theme=merko&date_format=M%20j%5B%2C%20Y%5D"><br><br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linecoran&layout=compact&theme=vision-friendly-dark"><br><br>
+    <img src="https://www.codewars.com/users/linecoran/badges/large">
   </div>
   
 </div>
-
-
-
-
-
-
-
-
-
-
-<!--
-**pavel1303/pavel1303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
