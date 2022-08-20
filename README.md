@@ -8,7 +8,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.codewars.com/users/pavel1303">
+  <a href="https://www.codewars.com/users/LineCoran">
     <img src="https://img.shields.io/badge/Codewars-red?style=for-the-badge&logo=Codewars&logoColor=white" alt="Codewars Badge"/>
   </a>
   <a href="https://t.me/jonybravo13">
