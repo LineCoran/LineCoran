@@ -97,7 +97,7 @@ I liked the curriculum, the big community and the fact that the students help ea
     <h2 align='left'>And some statistics...</h2>
     <img src="http://github-readme-streak-stats.herokuapp.com?user=linecoran&theme=merko&date_format=M%20j%5B%2C%20Y%5D"><br><br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linecoran&layout=compact&theme=vision-friendly-dark"><br><br>
-    <img src="https://www.codewars.com/users/linecoran/badges/large">
+    <img src="https://www.codewars.com/users/LineCoran/badges/large">
   </div>
   
 </div>
