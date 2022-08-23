@@ -31,8 +31,7 @@
 <div id="main">
   <div id="about_me">
     <h2>About me</h2>
-    <p>I started learning programming at the beginning of 2021. At first it was like a hobby for me. I liked the feeling that I could solve the problems associated with development, and I decided that I wanted to do it professionally. After a while, I found the Rolling Scopes school and enrolled in the following courses.
-I liked the curriculum, the big community and the fact that the students help each other. Now I continue to study at RS School and am open to job offers.</p>
+    <p>I love programming.</p>
   </div>
   <div id="skills">
     <h2>Skills and Technologies</h2>
