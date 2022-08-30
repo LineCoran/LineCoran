@@ -72,7 +72,11 @@
   <td>Single Page Application with a lot of functionality</td>
 </tr>
 
-
+<tr>
+  <td align="center"><a href="https://github.com/linecoran/eldritch-codejam/">v</a></td>
+  <td align="center"><a href="https://linecoran.github.io/eldritch-codejam/" rel="nofollow">Eldritch</a></td>
+  <td>Single Page Application with a lot of functionality</td>
+</tr>
 
 <tr>
 <td align="center">New project</td>
