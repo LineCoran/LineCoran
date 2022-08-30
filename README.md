@@ -11,13 +11,13 @@
   <a href="https://www.codewars.com/users/LineCoran">
     <img src="https://img.shields.io/badge/Codewars-red?style=for-the-badge&logo=Codewars&logoColor=white" alt="Codewars Badge"/>
   </a>
-<!--   <a href="https://t.me/jonybravo13">
+<!--   <a href="https://t.me/linecoran">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a> -->
 <!--   <a href="https://discordapp.com/users/872181479680122892/">
     <img src="https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord Badge"/>
   </a> -->
-<!--   <a href="mailto: lebedpavel.dev@gmail.com">
+<!--   <a href="mailto: vppisya@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
   </a> -->
   <a href="https://github.com/linecoran">
@@ -73,7 +73,7 @@
 </tr>
 
 <tr>
-  <td align="center"><a href="https://github.com/linecoran/eldritch-codejam/">v</a></td>
+  <td align="center"><a href="https://github.com/linecoran/eldritch-codejam/">Codejam</a></td>
   <td align="center"><a href="https://linecoran.github.io/eldritch-codejam/" rel="nofollow">Eldritch</a></td>
   <td>Single Page Application with a lot of functionality</td>
 </tr>
