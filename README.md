@@ -1,4 +1,4 @@
-<div id="title" align="center">
+<div id="titl" align="center">
   <h1 font-size='10px'>Hello there!&#128075;</h1>
   <p> My name is Kuzmichev Alexey, I'am Frontend-developer&#128187;</p>
 </div>
