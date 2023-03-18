@@ -59,7 +59,13 @@
 <tr>
   <td align="center"><a href="https://github.com/linecoran/fractales">Fractales</a></td>
   <td align="center"><a href="https://linecoran.github.io/fractales/" rel="nofollow">Fractales</a></td>
-  <td>My first project about creating fractales. </td>
+  <td>This is my first project where I used JavaScript. I called it the Fractal Creator. I used native JS and Canvas. It seems simple, but it took me about a week to create the algorithm. The algorithm is as follows:
+- You press the "tap" button and put three dots (triangle vertices) in an arbitrary place on the canvas.
+- Put your fourth point anywhere on the white part of the screen.
+- Press the "start" button and observe the magic.
+P.S. You can change the speed for a clearer effect.
+
+Translated with www.DeepL.com/Translator (free version)</td>
 </tr>
 <tr>
   <td align="center"><a href="https://github.com/linecoran/travel">Travel</a></td>
