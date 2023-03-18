@@ -84,11 +84,11 @@ P.S. You can change the speed for a clearer effect.
 The app has a clock, an image slider, weather widgets, an audio player, a day quote block, and settings. Local storage is used to store the user name and locality - local storage. In this project, I set up webpack for the first time. The application logic is divided into separate JS files</td>
 </tr>
 
-<tr>
+<!-- <tr>
   <td align="center"><a href="https://github.com/linecoran/eldritch-codejam/">Codejam</a></td>
   <td align="center"><a href="https://linecoran.github.io/eldritch-codejam/" rel="nofollow">Eldritch</a></td>
   <td>Eldritch Horror Codejam is a small helper app for the Ancient Horror board game with a deck of cards hangout algorithm. You can algorithm in more detail <a href="https://github.com/Luffi2539/eldritch-codejam">here</a></td>
-</tr>
+</tr> -->
 
 <tr>
 <td align="center">New project</td>
