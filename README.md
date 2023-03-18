@@ -64,8 +64,7 @@
 - Put your fourth point anywhere on the white part of the screen.
 - Press the "start" button and observe the magic.
 P.S. You can change the speed for a clearer effect.
-
-Translated with www.DeepL.com/Translator (free version)</td>
+</td>
 </tr>
 <tr>
   <td align="center"><a href="https://github.com/linecoran/travel">Travel</a></td>
