@@ -73,20 +73,21 @@ P.S. You can change the speed for a clearer effect.
   <td>The first assignment in the Rolling Scopes Pre-School Front-end JavaScript course. I had to create a one-page site with information about myself. I used HTML with clean CSS, BEM methodology for naming classes. Adaptability was implemented. Additionally, I made two themes, dark and light.</td>
 </tr>
 <tr>
-  <td align="center"><a href="https://github.com/linecoran/projects_stage_0/travel">Travel</a></td>
+  <td align="center"><a href="https://github.com/LineCoran/projects_stage_0/tree/travel">Travel</a></td>
   <td align="center"><a href="https://linecoran.github.io/projects_stage_0/travel" rel="nofollow">Travel</a></td>
-  <td>My first project in RSS School about Travel. HTML, CSS, JavaScript</td>
+  <td>Educational project - Travel website. One-page site, with adaptive-flexible layout for any screen extension. Implemented: a burger menu for screens smaller than 768px, an infinite slider with popular destination cards, a pop-up with login component. In this project I used native HTML, CSS, JavaScript and BEM methodology.</td>
 </tr>
 <tr>
-  <td align="center"><a href="https://github.com/linecoran/projects_stage_0/momentum">Momentum</a></td>
+  <td align="center"><a href="https://github.com/linecoran/projects_stage_0/tree/momentum">Momentum</a></td>
   <td align="center"><a href="https://linecoran.github.io/projects_stage_0/momentum" rel="nofollow">Momentum</a></td>
-  <td>Single Page Application with a lot of functionality</td>
+  <td>Momentum is an analogue of the Chrome Web Store app of the same name. The app shows the time and the user's name. The background image and welcome message change depending on the time of day.
+The app has a clock, an image slider, weather widgets, an audio player, a day quote block, and settings. Local storage is used to store the user name and locality - local storage. In this project, I set up webpack for the first time. The application logic is divided into separate JS files</td>
 </tr>
 
 <tr>
   <td align="center"><a href="https://github.com/linecoran/eldritch-codejam/">Codejam</a></td>
   <td align="center"><a href="https://linecoran.github.io/eldritch-codejam/" rel="nofollow">Eldritch</a></td>
-  <td>Single Page Application with a lot of functionality</td>
+  <td>Eldritch Horror Codejam is a small helper app for the Ancient Horror board game with a deck of cards hangout algorithm. You can algorithm in more detail [here](https://github.com/Luffi2539/eldritch-codejam)</td>
 </tr>
 
 <tr>
