@@ -73,13 +73,13 @@ P.S. You can change the speed for a clearer effect.
   <td>The first assignment in the Rolling Scopes Pre-School Front-end JavaScript course. I had to create a one-page site with information about myself. I used HTML with clean CSS, BEM methodology for naming classes. Adaptability was implemented. Additionally, I made two themes, dark and light.</td>
 </tr>
 <tr>
-  <td align="center"><a href="https://github.com/linecoran/travel">Travel</a></td>
-  <td align="center"><a href="https://linecoran.github.io/travel/" rel="nofollow">Travel</a></td>
+  <td align="center"><a href="https://github.com/linecoran/projects_stage_0/travel">Travel</a></td>
+  <td align="center"><a href="https://linecoran.github.io/projects_stage_0/travel" rel="nofollow">Travel</a></td>
   <td>My first project in RSS School about Travel. HTML, CSS, JavaScript</td>
 </tr>
 <tr>
-  <td align="center"><a href="https://github.com/linecoran/momentum/">Momentum</a></td>
-  <td align="center"><a href="https://linecoran.github.io/momentum/" rel="nofollow">Momentum</a></td>
+  <td align="center"><a href="https://github.com/linecoran/projects_stage_0/momentum">Momentum</a></td>
+  <td align="center"><a href="https://linecoran.github.io/projects_stage_0/momentum" rel="nofollow">Momentum</a></td>
   <td>Single Page Application with a lot of functionality</td>
 </tr>
 
