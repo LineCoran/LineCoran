@@ -47,6 +47,7 @@
   </div>
   <div id="projects">
     <h2>My projects</h2>    
+  
 <table>
 <thead>
 <tr>
@@ -65,6 +66,11 @@
 - Press the "start" button and observe the magic.
 P.S. You can change the speed for a clearer effect.
 </td>
+</tr>
+<tr>
+  <td align="center"><a href="https://github.com/linecoran/rsschool-cv_stage0">Travel</a></td>
+  <td align="center"><a href="https://linecoran.github.io/rsschool-cv_stage0/" rel="nofollow">RSSchool CV</a></td>
+  <td>The first assignment in the Rolling Scopes Pre-School Front-end JavaScript course. I had to create a one-page site with information about myself. I used HTML with clean CSS, BEM methodology for naming classes. Adaptability was implemented. Additionally, I made two themes, dark and light.</td>
 </tr>
 <tr>
   <td align="center"><a href="https://github.com/linecoran/travel">Travel</a></td>
@@ -90,6 +96,7 @@ P.S. You can change the speed for a clearer effect.
 </tr>
 </tbody>
 </table>
+
   </div>
   <div id='education'>
     <h2 align='left'>Education</h2>
