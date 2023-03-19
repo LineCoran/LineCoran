@@ -89,7 +89,26 @@ The app has a clock, an image slider, weather widgets, an audio player, a day qu
   <td align="center"><a href="https://linecoran.github.io/eldritch-codejam/" rel="nofollow">Eldritch</a></td>
   <td>Eldritch Horror Codejam is a small helper app for the Ancient Horror board game with a deck of cards hangout algorithm. You can algorithm in more detail <a href="https://github.com/Luffi2539/eldritch-codejam">here</a></td>
 </tr> -->
-
+  
+  
+ <tr>
+  <td align="center"><a href="https://github.com/linecoran/projects_stage_1/tree/online-zoo">Online zoo</a></td>
+  <td align="center"><a href="https://linecoran.github.io/projects_stage_1/online-zoo/pages/main/" rel="nofollow">Online zoo</a></td>
+  <td>Online-zoo is a site where information about animals from various zoos with webcams is collected. It is supposed that the user can open a page with the zoo's resources, watch some of the animals, or make a donation, which will be used to buy food.</td>
+</tr>
+  
+<tr>
+  <td align="center"><a href="https://github.com/linecoran/projects_stage_1/tree/codejam-the-gem-puzzle">Gem puzzle</a></td>
+  <td align="center"><a href="https://linecoran.github.io/projects_stage_1/codejam-the-gem-puzzle/" rel="nofollow">Gem puzzle</a></td>
+  <td>Classic game - Gem Puzzle. Game is a sliding puzzle that consists of a frame of numbered square tiles in random order with one tile missing. The puzzle also exists in other sizes. The game has implemented saving the game state in LocaleStorage. After the passage of the modal window is displayed with the time spent and the number of moves. The game is written using HTML/CSS and JavaScript</td>
+</tr>
+  
+  <tr>
+  <td align="center"><a href="https://github.com/linecoran/projects_stage_1/tree/songbirds">Songbirs</a></td>
+  <td align="center"><a href="https://linecoran.github.io/projects_stage_1/songbirds/dist/" rel="nofollow">Songbirs</a></td>
+  <td>Songbird is a quiz app for recognizing birds by their voices. I used HTML, CSS and JavaScript to create the project and Webpack to build the application. The application has a start page, a game page, and a results page. The translation of the application into two languages was implemented.</td>
+</tr>
+  
 <tr>
 <td align="center">New project</td>
 <td align="center"></td>
