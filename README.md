@@ -175,7 +175,7 @@ P.S. You can change the speed for a clearer effect.</p>
   <tbody>
     <tr>
       <td align="center">
-        <div><img src="https://user-images.githubusercontent.com/104069255/226165720-c17c068d-238d-4f4a-a20e-7066e389cc0f.png" /></div>
+        <div><img src="https://user-images.githubusercontent.com/104069255/226166050-a5f3ece0-8c14-4878-b477-cba1255cca9e.png" /></div>
         <p align="center"><strong><a href="https://github.com/LineCoran/dardarya-store/tree/develop">Source</a> / <a href="https://dardaryya.netlify.app/">Deploy</a></strong></p>
       </td>
       <td align="left">
