@@ -156,6 +156,52 @@ P.S. You can change the speed for a clearer effect.</p>
       </td>
     </tr>
   </tbody>
+  
+  <tbody>
+    <tr>
+      <td align="center">
+        <div><img src="https://user-images.githubusercontent.com/104069255/226165720-c17c068d-238d-4f4a-a20e-7066e389cc0f.png" /></div>
+        <p align="center"><strong><a href="https://github.com/Doooodie/online-store-team/pull/15">Source</a> / <a href="https://doooodie-online-store-team.netlify.app/">Deploy</a></strong></p>
+      </td>
+      <td align="left">
+        <h3><a href="https://doooodie-online-store-team.netlify.app/">Online store</a></h3>
+        <p><strong>Description: </strong>Website for the sale of any product.</p>
+        <p><strong>Features: </strong>Filtering, product search and sorting, switching views, cart page of selected products, pagination, promotion block, saving data to LocalStorage, checkout modal window, validation, product description page, age 404</p>
+        <p><strong>Stack: </strong>React + TypeScript, React Router Dom, Redux Toolkit, Material UI, Styled components</p>
+      </td>
+    </tr>
+  </tbody>
+  
+  <tbody>
+    <tr>
+      <td align="center">
+        <div><img src="https://user-images.githubusercontent.com/104069255/226165720-c17c068d-238d-4f4a-a20e-7066e389cc0f.png" /></div>
+        <p align="center"><strong><a href="https://github.com/LineCoran/dardarya-store/tree/develop">Source</a> / <a href="https://dardaryya.netlify.app/">Deploy</a></strong></p>
+      </td>
+      <td align="left">
+        <h3><a href="https://dardaryya.netlify.app/">Dardarya</a></h3>
+        <p><strong>Description: </strong>Website for calculating the cost of goods from China. This is a freelance project for my friend.</p>
+        <p><strong>Features: </strong>Validation, feedback page, main page, settlement page, modal window with the final chec</p>
+        <p><strong>Stack: </strong>React + TypeScript, React Router Dom, Redux Toolkit, Material UI, Styled components</p>
+      </td>
+    </tr>
+  </tbody>
+  
+  <tbody>
+    <tr>
+      <td align="center">
+        <div><img src="https://user-images.githubusercontent.com/104069255/226165609-ec9b5495-fa8a-4e52-ae74-6c65cf3bcde0.png" /></div>
+        <p align="center"><strong><a href="https://github.com/Doooodie/online-store-team/pull/15">Frontend</a> / <strong><a href="https://github.com/Doooodie/rs-clone-backend">Backend</a> /<a href="https://doooodie-badoone-drive.vercel.app">Deploy</a></strong></p>
+      </td>
+      <td align="left">
+        <h3><a href="https://doooodie-badoone-drive.vercel.app">Google Drive Clone</a></h3>
+        <p><strong>Description: </strong>Full stack app similar to the real Google Drive. Teamwork of three people.</p>
+        <p><strong>Features: </strong>Animation, authorization, registration, downloading and deleting files, 2 themes, language change</p>
+        <p><strong>Stack: </strong>Frontend: React + TypeScript, React Router Dom, RTKQuery, Redux Toolkit, Three.js, Material UI, Styled components. Backend: NodeJS + Express, MySQL</p>
+      </td>
+    </tr>
+  </tbody>
+
 </table>
     
 <!-- NEW TABLE TEST END     -->
