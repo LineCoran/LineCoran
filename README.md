@@ -46,6 +46,7 @@
 <!-- NEW TABLE TEST START     -->
     
 <table align="center">
+  
   <tbody>
     <tr>
       <td align="center">
@@ -63,7 +64,7 @@ P.S. You can change the speed for a clearer effect.</p>
         <p><strong>Stack: </strong>HTML, CSS, JavaScript</p>
       </td>
     </tr>
-    </tbody>
+  </tbody>
 
   <tbody>
     <tr>
@@ -96,7 +97,7 @@ P.S. You can change the speed for a clearer effect.</p>
     </tr>
   </tbody>
   
-    <tbody>
+  <tbody>
     <tr>
       <td align="center">
         <div><img src="https://user-images.githubusercontent.com/104069255/226162656-6bb287c3-ca51-4009-8a15-abb8b0b6dc0b.png" /></div>
@@ -110,8 +111,7 @@ P.S. You can change the speed for a clearer effect.</p>
       </td>
     </tr>
   </tbody>
-
-
+  
   <tbody>
     <tr>
       <td align="center">
@@ -127,7 +127,7 @@ P.S. You can change the speed for a clearer effect.</p>
     </tr>
   </tbody>
   
-    <tbody>
+  <tbody>
     <tr>
       <td align="center">
         <div><img src="https://user-images.githubusercontent.com/104069255/226162931-f2bcec06-1e17-4d08-84de-0774e910a9d7.png" /></div>
@@ -142,7 +142,7 @@ P.S. You can change the speed for a clearer effect.</p>
     </tr>
   </tbody>
   
-      <tbody>
+  <tbody>
     <tr>
       <td align="center">
         <div><img src="https://user-images.githubusercontent.com/104069255/226163130-e72bd1be-1d03-492f-ae47-409c20166deb.png" /></div>
@@ -156,9 +156,6 @@ P.S. You can change the speed for a clearer effect.</p>
       </td>
     </tr>
   </tbody>
-
-
-  
 </table>
     
 <!-- NEW TABLE TEST END     -->
