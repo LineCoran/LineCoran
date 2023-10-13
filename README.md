@@ -31,7 +31,6 @@
 <div id="main">
   <div id="about_me">
     <h2>About me </h2>
-    <p>I love programming.</p>
   </div>
   <div id="skills">
     <h2>Skills and Technologies</h2>
