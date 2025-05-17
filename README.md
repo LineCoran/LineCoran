@@ -1,38 +1,38 @@
 <div id="titl" align="center">
-  <h1 font-size='10px'>Hello there!!!&#128075;</h1>
-  <p> My name is Kuzmichev Alexey, I'am Frontend-developer&#128187;</p>
+  <h1 font-size='10px'>Hello there&#128075;</h1>
+  <p> My name is Kuzmichev Alexey&#128187;</p>
 </div>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
 </div>
 
-<div id="badges" align="center">
+<!-- <div id="badges" align="center">
   <a href="https://www.codewars.com/users/LineCoran">
     <img src="https://img.shields.io/badge/Codewars-red?style=for-the-badge&logo=Codewars&logoColor=white" alt="Codewars Badge"/>
   </a>
-<!--   <a href="https://t.me/linecoran">
+  <a href="https://t.me/linecoran">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a> -->
-<!--   <a href="https://discordapp.com/users/872181479680122892/">
+  </a>
+  <a href="https://discordapp.com/users/872181479680122892/">
     <img src="https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord Badge"/>
-  </a> -->
-<!--   <a href="mailto: vppisya@gmail.com">
+  </a>
+  <a href="mailto: vppisya@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
-  </a> -->
+  </a>
   <a href="https://github.com/linecoran">
     <img src="https://img.shields.io/badge/GitHub-red?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub Badge"/>
   </a>
 </div>
 <div id="views_counter " align="center">
   <img src="https://komarev.com/ghpvc/?username=linecoran" alt=""/>
-</div>
+</div> -->
 
-<div id="main">
+<!-- <div id="main">
   <div id="about_me">
     <h2>About me </h2>
-  </div>
-  <div id="skills">
+  </div> -->
+  <!-- <div id="skills">
     <h2>Skills and Technologies</h2>
     <div id='logo' align='center'>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp;
@@ -40,11 +40,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;     
    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma"  alt="Figma" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code"  alt="VS Code" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code"  alt="VS Code" width="60" height="60"/>&nbsp; -->
     
 <!-- NEW TABLE TEST START     -->
     
-<table align="center">
+<!-- <table align="center">
   
   <tbody>
     <tr>
@@ -201,12 +201,12 @@ P.S. You can change the speed for a clearer effect.</p>
     </tr>
   </tbody>
 
-</table>
+</table> -->
     
 <!-- NEW TABLE TEST END     -->
 
   </div>
-  <div id='education'>
+  <!-- <div id='education'>
     <h2 align='left'>Education</h2>
     <ul>
       <li>Head First O’Reilly Learning HTML, CSS</li>
@@ -215,9 +215,9 @@ P.S. You can change the speed for a clearer effect.</p>
       <li>Marijn Haverbeke El Eloquent JavaScript (<b>in progress</b>)</li>
       <li>Rolling Scopes School Stage 0 (<b>in progress</b>)</li>
     </ul>
-  </div>
+  </div> -->
   <div id='stats' align='center'>
-    <h2 align='left'>And some statistics...</h2>
+    <!-- <h2 align='left'>And some statistics...</h2> -->
     <img src="http://github-readme-streak-stats.herokuapp.com?user=linecoran&theme=merko&date_format=M%20j%5B%2C%20Y%5D"><br><br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linecoran"><br><br>
     <img src="https://www.codewars.com/users/LineCoran/badges/large">
