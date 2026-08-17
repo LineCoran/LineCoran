@@ -1,11 +1,11 @@
-<div id="titl" align="center">
+<!-- <div id="titl" align="center">
   <h1 font-size='10px'>Hello there&#128075;</h1>
   <p> My name is Kuzmichev Alexey&#128187;</p>
 </div>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
-</div>
+</div> -->
 
 <!-- <div id="badges" align="center">
   <a href="https://www.codewars.com/users/LineCoran">
@@ -216,11 +216,11 @@ P.S. You can change the speed for a clearer effect.</p>
       <li>Rolling Scopes School Stage 0 (<b>in progress</b>)</li>
     </ul>
   </div> -->
-  <div id='stats' align='center'>
+  <!-- <div id='stats' align='center'>
     <!-- <h2 align='left'>And some statistics...</h2> -->
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=linecoran&theme=merko&date_format=M%20j%5B%2C%20Y%5D"><br><br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linecoran"><br><br>
-    <img src="https://www.codewars.com/users/LineCoran/badges/large">
-  </div>
-  
-</div>
+    <!-- <img src="http://github-readme-streak-stats.herokuapp.com?user=linecoran&theme=merko&date_format=M%20j%5B%2C%20Y%5D"><br><br> -->
+    <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linecoran"><br><br> -->
+    <!-- <img src="https://www.codewars.com/users/LineCoran/badges/large"> -->
+  <!-- </div> -->
+   -->
+<!-- </div> -->
